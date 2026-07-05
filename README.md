@@ -1,6 +1,3 @@
-# MathGame
-
-
 # Math Game – C++ Console Application
 
 A simple interactive math quiz game built with C++.  
